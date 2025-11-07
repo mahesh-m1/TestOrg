@@ -29,7 +29,7 @@
         <name>LightningComponentBundle</name>
     </types>
     <types>
-        <members>*</members>
+        <members>temp</members>
         <name>StaticResource</name>
     </types>
     <version>65.0</version>
